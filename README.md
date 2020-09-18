@@ -153,7 +153,7 @@ Mappings for:
 | 4.3 | [190. Reverse Bits](https://leetcode.com/problems/reverse-bits/) |
 | 4.4 | []() |
 | 4.5 | []() |
-| 4.6 | []() |
+| 4.6 | [29. Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) |
 | 4.7 | [50. Pow(x,n)](https://leetcode.com/problems/powx-n/) |
 | 4.8 | []() |
 | 4.9 | [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/) |
